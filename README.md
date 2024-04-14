@@ -32,6 +32,8 @@
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/aniolmoreno-es)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aniolmoreno-es&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=aniolmoreno-es&redirect=true)
 <br/>
 ---
 
