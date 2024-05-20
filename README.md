@@ -20,7 +20,10 @@
 ### 📊 Stats
 
 ![aniolmorenobatlle's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniolmorenobatlle&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniolmorenobatlle&layout=donut&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniolmorenobatlle&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=aniolmorenobatlle&theme=gruvbox&border_radius=4.5) -->
 
