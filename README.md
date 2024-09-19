@@ -27,16 +27,4 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=aniolmorenobatlle&theme=gruvbox&border_radius=4.5) -->
 
-#
-
 ---
-
-
-
-### Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aniolmoreno-es&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=2bbf64&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=aniolmoreno-es&redirect=true)
-<br/>
----
-
-[website]: https://aniolmorenobatlle.com
